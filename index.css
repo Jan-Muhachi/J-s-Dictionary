@@ -1,0 +1,97 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Choose your preferred Google font */
+    margin: 0;
+    padding: 0;
+    background-image: url('src/wallpaperflare.com_wallpaper.jpg'); /* Replace 'books-background.jpg' with your actual image file */
+    background-size: cover;
+    background-position: center;
+    color: #333; /* Set your preferred text color */
+}
+
+h1 {
+    text-align: center;
+    margin-top: 70px;
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+label {
+    font-size: 18px;
+}
+
+input[type="text"] {
+    padding: 15px;
+    font-size: 19px;
+    border: 1px solid #ccc;
+    border-radius: 9px;
+    margin-left: 14px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #030e1a; /* Set your preferred button color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+button:hover {
+    background-color: #0056b3; /* Change button color on hover if desired */
+}
+
+#wordDetails {
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add box shadow for a nice effect */
+}
+body {
+    background-color: #0a043c;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#wordDetails {
+    margin-top: 20px;
+    text-align: center;
+}
