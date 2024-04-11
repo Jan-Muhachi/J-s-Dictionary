@@ -1,7 +1,7 @@
 # J-s-Dictionary
 
 ### Description
-J's Dictionary is a simple web application built with HTML, CSS, and JavaScript and uses a public API. Here is the link to the public API it uses ( https://dictionaryapi.dev/ ). It allows users to look up the definitions of the words that they desire to know about. The code returns to the user the definition, phonetic, and the part of speech. 
+J's Dictionary is a simple web application built with HTML, CSS, and JavaScript and uses a public API. Here is the link to the public API it uses ( https://dictionaryapi.dev/ ). This site allows users to look up the definitions of the words they desire to know about. Then the code returns the definition, phonetic, and the part of speech. 
 
 ### Features
 - Look up the definition of a word.
