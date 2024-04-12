@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
             displayWordDetails(data);
         } catch (error) {
             console.error('An error occurred:', error);
-            wordDetails.innerHTML = 'The word seached for may have a spelling, please make sure you have the correct spelling and try again.';
+            wordDetails.innerHTML = 'The word searched for may have a spelling error, please make sure you have the correct spelling and try again.';
         }
     });
 
